@@ -53,7 +53,7 @@ map tt :NERDTreeToggle<CR>
 " ==
 " " == NERDTree-git
 " " ==
-let g:NERDTreeIndicatorMapCustom = {
+let g:NERDTreeGitStatusIndicatorMapCustom = {
     \ "Modified"  : "✹",
     \ "Staged"    : "✚",
     \ "Untracked" : "✭",
